@@ -1,4 +1,4 @@
-WWDC-2014-Scholarship
+WWDC 2014 Scholarship
 =====================
 
 This is my entry for a WWDC 214 Scholarship. It's an iPad app about me!
