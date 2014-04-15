@@ -18,7 +18,7 @@
     
     [application setStatusBarStyle:UIStatusBarStyleDefault];
     
-    [Mixpanel sharedInstanceWithToken:@"0d42826d2861adbb4bb9397e2b71e4e8"];
+    //[Mixpanel sharedInstanceWithToken:@"xxxxxxx"];
     [[Mixpanel sharedInstance] track:@"AppDelegateLaunched"];
     
     return YES;
