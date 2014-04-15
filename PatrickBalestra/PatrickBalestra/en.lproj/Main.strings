@@ -1,0 +1,63 @@
+
+/* Class = "IBUIButton"; normalTitle = "Website"; ObjectID = "2CJ-qf-SlI"; */
+"2CJ-qf-SlI.normalTitle" = "Website";
+
+/* Class = "IBUILabel"; text = "About Me"; ObjectID = "4Ix-vK-ymE"; */
+"4Ix-vK-ymE.text" = "About Me";
+
+/* Class = "IBUITextView"; text = "At the moment, I am enrolled in the high school Liceo Cantonale of Bellinzona. I plan to graduate in 2015 and I choose a scientific path which involves a lot of math and physics. I absolutely love to study english and these subjects. This year I was also able to attend a course in Computer Science but we're just learning the basics of Java. Everything I learnt was by myself."; ObjectID = "6wm-PW-kFA"; */
+"6wm-PW-kFA.text" = "At the moment, I am enrolled in the high school Liceo Cantonale of Bellinzona. I plan to graduate in 2015 and I choose a scientific path which involves a lot of math and physics. I absolutely love to study english and these subjects. This year I was also able to attend a course in Computer Science but we're just learning the basics of Java. Everything I learnt was by myself.";
+
+/* Class = "IBUILabel"; text = "2011 - Present:"; ObjectID = "7MU-hc-uTe"; */
+"7MU-hc-uTe.text" = "2011 - Present:";
+
+/* Class = "IBUILabel"; text = "Future plan:"; ObjectID = "BY9-uF-LtK"; */
+"BY9-uF-LtK.text" = "Future plan:";
+
+/* Class = "IBUITextView"; text = "I started the primary school in Lodrino but I finished it in Bellinzona where I moved in 2003. In 2007 I started middle school alway in Bellinzona at La Traccia school."; ObjectID = "ETP-rz-Iu6"; */
+"ETP-rz-Iu6.text" = "I started the primary school in Lodrino but I finished it in Bellinzona where I moved in 2003. In 2007 I started middle school alway in Bellinzona at La Traccia school.";
+
+/* Class = "IBUILabel"; text = "Tap on a circle!"; ObjectID = "JHb-WB-egP"; */
+"JHb-WB-egP.text" = "Tap on a circle!";
+
+/* Class = "IBUIButton"; normalTitle = "Twitter"; ObjectID = "Lse-bG-cKD"; */
+"Lse-bG-cKD.normalTitle" = "Twitter";
+
+/* Class = "IBUILabel"; text = "Web Development"; ObjectID = "PXJ-ka-UOy"; */
+"PXJ-ka-UOy.text" = "Web Development";
+
+/* Class = "IBUITextView"; text = "In september 2013, I was chosen by a Swiss association named \"Science and youth\" to go to the University of Fribourg to develop a Lego robot that was able to discover its own environment and draw a map of it. I coded the robot in Java and I met a lot of other nice guys from Switzerland with my same passion. In October 2013 I attended Pragma Conference in Milan, a very nice conference for iOS developers. I learned a lot in just one day and meet a few new friends."; ObjectID = "QVV-zW-vAP"; */
+"QVV-zW-vAP.text" = "In september 2013, I was chosen by a Swiss association named \"Science and youth\" to go to the University of Fribourg to develop a Lego robot that was able to discover its own environment and draw a map of it. I coded the robot in Java and I met a lot of other nice guys from Switzerland with my same passion. In October 2013 I attended Pragma Conference in Milan, a very nice conference for iOS developers. I learned a lot in just one day and meet a few new friends.";
+
+/* Class = "IBUILabel"; text = "Special Achievements"; ObjectID = "Wfy-kh-Ibw"; */
+"Wfy-kh-Ibw.text" = "Special Achievements";
+
+/* Class = "IBUILabel"; text = "Cats"; ObjectID = "Wuf-9l-KcA"; */
+"Wuf-9l-KcA.text" = "Cats";
+
+/* Class = "IBUILabel"; text = "Pebble"; ObjectID = "aTy-um-atN"; */
+"aTy-um-atN.text" = "Pebble";
+
+/* Class = "IBUIButton"; normalTitle = "Email"; ObjectID = "aov-wi-x7h"; */
+"aov-wi-x7h.normalTitle" = "Email";
+
+/* Class = "IBUIButton"; normalTitle = "Github"; ObjectID = "epx-ZF-OHt"; */
+"epx-ZF-OHt.normalTitle" = "Github";
+
+/* Class = "IBUITextView"; text = "This summer I will intern at DOS group as iOS developer. I plan to study Computer Science at the USI Università della Svizzera Italiana in Lugano (Switzerland) in a few years. I'd love to take a summer internship in the upcoming years in California to expand my knowledge in the iOS development field. I then plan to finish my study in the USA or to find a job as iOS developer and move to California."; ObjectID = "grJ-wI-hlu"; */
+"grJ-wI-hlu.text" = "This summer I will intern at DOS group as iOS developer. I plan to study Computer Science at the USI Università della Svizzera Italiana in Lugano (Switzerland) in a few years. I'd love to take a summer internship in the upcoming years in California to expand my knowledge in the iOS development field. I then plan to finish my study in the USA or to find a job as iOS developer and move to California.";
+
+/* Class = "IBUILabel"; text = "Music"; ObjectID = "loA-G5-FkX"; */
+"loA-G5-FkX.text" = "Music";
+
+/* Class = "IBUILabel"; text = "iOS Development"; ObjectID = "peJ-5F-5bI"; */
+"peJ-5F-5bI.text" = "iOS Development";
+
+/* Class = "IBUILabel"; text = "2002 - 2011:"; ObjectID = "tJ0-Xa-cHh"; */
+"tJ0-Xa-cHh.text" = "2002 - 2011:";
+
+/* Class = "IBUILabel"; text = "Unihockey"; ObjectID = "tj7-fy-Dqg"; */
+"tj7-fy-Dqg.text" = "Unihockey";
+
+/* Class = "IBUILabel"; text = "Travel"; ObjectID = "uO2-J5-mn8"; */
+"uO2-J5-mn8.text" = "Travel";

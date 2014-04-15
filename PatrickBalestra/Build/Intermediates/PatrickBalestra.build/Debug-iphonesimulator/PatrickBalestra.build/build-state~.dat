@@ -1,0 +1,383 @@
+TPatrickBalestra
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.pch PatrickBalestra/PatrickBalestra-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra normal i386
+cCopyStringsFile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/en.lproj/InfoPlist.strings PatrickBalestra/en.lproj/InfoPlist.strings
+cCpResource PatrickBalestra/MainBackground.png Build/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png
+cCompileStoryboard /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Images.xcassets
+cProcessInfoPlistFile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Info.plist /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Info.plist
+cGenerateDSYMFile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra
+cTouch /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E1FF600000000000003B4
+t1394483190
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E1FFF000000000000019E
+t1394483199
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531E20020000000000446820
+t1394483202
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E2003000000000088D8C0
+t1394483203
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E20090000000001F1DE10
+t1394483209
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E20390000000000000ADC
+t1394483257
+s2780
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o
+t1396539045
+s62504
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o
+t1396539045
+s39048
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PatrickBalestra.LinkFileList
+c00000000533D7EA300000000000001FB
+t1396539043
+s507
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o
+t1396539045
+s3580
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/assetcatalog_dependencies.txt
+t1396539047
+s301
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/assetcatalog_generated_info.plist
+t1396539047
+s181
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.pch
+t1396539045
+s116380
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app
+t1396539047
+s306
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM
+t2
+s0
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Base.lproj/Main.storyboardc
+t1396539047
+s170
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Info.plist
+t1396539047
+s822
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png
+t1396539045
+s626467
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra
+t1396539045
+s17108
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PkgInfo
+t1396539047
+s8
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/en.lproj/InfoPlist.strings
+t1396539045
+s42
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Base.lproj/Main.storyboard
+c00000000533D7EA300000000000007E4
+t1396539043
+s2020
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Images.xcassets
+c00000000533D7B6B0000000000000088
+t1396538219
+s136
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/MainBackground.png
+c00000000533D7DF70000000000098F23
+t1396538871
+s626467
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m
+c00000000533D7B6B00000000000007F0
+t1396538219
+s2032
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m
+c00000000533D7B6B0000000000000208
+t1396538219
+s520
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Info.plist
+c00000000533D7E8A00000000000004A4
+t1396539018
+s1188
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Prefix.pch
+c00000000533D7B6B0000000000000158
+t1396538219
+s344
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/en.lproj/InfoPlist.strings
+c00000000533D7B6B000000000000002D
+t1396538219
+s45
+
+N/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m
+c00000000533D7B6B0000000000000168
+t1396538219
+s360
+
+CBuild AST from /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m
+r0
+
+CBuild AST from /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m
+r0
+
+CBuild AST from /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6056f423b6edb841^a9a3ff23b6edb841^---0#1#1#--18"Check dependencies36"2F71BF7F-9ED6-4BB8-BD8D-39E71B377056-
+
+CCompileAssetCatalog /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Images.xcassets
+s418231845.827520
+e418231847.020236
+r1
+xCompileAssetCatalog
+x/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app
+x/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Assets.car
+o/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"CompileAssetCatalog Build/Products/Debug-iphonesimulator/PatrickBalestra.app PatrickBalestra/Images.xcassets108"CompileAssetCatalog Build/Products/Debug-iphonesimulator/PatrickBalestra.app PatrickBalestra/Images.xcassets14ecd325b6edb841^412e0527b6edb841^-330"/* com.apple.actool.compilation-results *//Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Assets.car/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@88"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Images.xcassets/0000000000000000^1250"CompileAssetCatalog Build/Products/Debug-iphonesimulator/PatrickBalestra.app PatrickBalestra/Images.xcassets    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device ipad --compress-pngs --compile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Images.xcassets36"5890FB18-4878-4201-88D0-93380F532409-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CCompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418231845.477711
+e418231845.603334
+r1
+xCompileC
+xBuild/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o
+x/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m
+d/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m230"CompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o PatrickBalestra/PBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf617a25b6edb841^ab759a25b6edb841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m0000000000000000^4037"CompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o PatrickBalestra/PBAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PatrickBalestra/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-generated-files.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-own-target-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-all-target-headers.hmap -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-project-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources/i386 -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources -F/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator -include /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch -MMD -MT dependencies -MF /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.d --serialize-diagnostics /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.dia -c /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.m -o /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o36"1B4F2689-E49E-41FE-A860-3A4E1147B7B9-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CCompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418231845.477956
+e418231845.602862
+r1
+xCompileC
+xBuild/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o
+x/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m
+d/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m236"CompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o PatrickBalestra/PBViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera27b7a25b6edb841^5c559a25b6edb841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m0000000000000000^4055"CompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o PatrickBalestra/PBViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PatrickBalestra/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-generated-files.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-own-target-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-all-target-headers.hmap -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-project-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources/i386 -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources -F/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator -include /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch -MMD -MT dependencies -MF /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.d --serialize-diagnostics /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.dia -c /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBViewController.m -o /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o36"3990DF28-EAE0-4801-9A21-593EE94ECF8A-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CCompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418231845.478312
+e418231845.601653
+r1
+xCompileC
+xBuild/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o
+x/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m
+d/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PBAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m212"CompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o PatrickBalestra/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler488c7a25b6edb841^12159a25b6edb841^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m0000000000000000^3983"CompileC Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o PatrickBalestra/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PatrickBalestra/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-generated-files.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-own-target-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-all-target-headers.hmap -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-project-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources/i386 -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources -F/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator -include /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch -MMD -MT dependencies -MF /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.dia -c /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/main.m -o /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o36"343CACDF-84E2-4EA0-97A1-EEFB87E88D24-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CCompileStoryboard /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Base.lproj/Main.storyboard
+s418231845.826518
+e418231847.058019
+r1
+xCompileStoryboard
+x/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"CompileStoryboard PatrickBalestra/Base.lproj/Main.storyboard60"CompileStoryboard PatrickBalestra/Base.lproj/Main.storyboardb0c8d325b6edb841^eacf0e27b6edb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Base.lproj/Main.storyboard0000000000000000^893"CompileStoryboard PatrickBalestra/Base.lproj/Main.storyboard    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Base.lproj/Main.storyboardc /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/Base.lproj/Main.storyboard36"2065BC69-9C9C-4782-971C-149D1F9667F6-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CCopyStringsFile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/en.lproj/InfoPlist.strings PatrickBalestra/en.lproj/InfoPlist.strings
+s418231845.826131
+e418231845.828109
+r1
+xCopyStringsFile
+x/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/en.lproj/InfoPlist.strings
+xPatrickBalestra/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy PatrickBalestra/en.lproj/InfoPlist.strings142"CopyStringsFile Build/Products/Debug-iphonesimulator/PatrickBalestra.app/en.lproj/InfoPlist.strings PatrickBalestra/en.lproj/InfoPlist.strings4f91d325b6edb841^2200d425b6edb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/en.lproj/InfoPlist.strings0000000000000000^645"CopyStringsFile Build/Products/Debug-iphonesimulator/PatrickBalestra.app/en.lproj/InfoPlist.strings PatrickBalestra/en.lproj/InfoPlist.strings    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/en.lproj -- PatrickBalestra/en.lproj/InfoPlist.strings36"B244D922-E274-4995-8229-9E6D6B1E2E04-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CCpResource PatrickBalestra/MainBackground.png Build/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png
+s418231845.826299
+e418231845.828953
+r1
+xCpResource
+xPatrickBalestra/MainBackground.png
+xBuild/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy Build/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png121"CpResource PatrickBalestra/MainBackground.png Build/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png389ed325b6edb841^1938d425b6edb841^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png00344ce7deffdf42^675"CpResource PatrickBalestra/MainBackground.png Build/Products/Debug-iphonesimulator/PatrickBalestra.app/MainBackground.png    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/MainBackground.png /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app36"7133A03B-23F0-46CC-86BE-C922EEA66D02-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CGenerateDSYMFile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra
+s418231847.061535
+e418231847.130015
+r1
+xGenerateDSYMFile
+x/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM
+x/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Generate /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM151"GenerateDSYMFile Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestraa7ce0f27b6edb841^c24e2127b6edb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM00344ce7deffdf42^739"GenerateDSYMFile Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra -o /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app.dSYM36"31C112F2-D810-4080-85B5-2875519BC470-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CLd /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra normal i386
+s418231845.604025
+e418231845.825182
+r1
+xLd
+x/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra
+xnormal
+xi386
+d/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PatrickBalestra.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBAppDelegate.o
+d/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PBViewController.o
+d/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra87"Ld Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra normal i386eab09a25b6edb841^0c40d325b6edb841^---0#0#1#--1529"Ld Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra normal i386    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator -F/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator -filelist /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PatrickBalestra.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/Objects-normal/i386/PatrickBalestra_dependency_info.dat -o /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PatrickBalestra36"041DE44F-27CA-4E44-A1E9-AC1BA3372C5B-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CProcessInfoPlistFile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Info.plist /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Info.plist
+s418231847.058755
+e418231847.060787
+r1
+xProcessInfoPlistFile
+x/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Info.plist
+x/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Process /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Info.plist131"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Info.plist PatrickBalestra/PatrickBalestra-Info.plist501d0f27b6edb841^32900f27b6edb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Info.plist0000000000000000^1004"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Info.plist PatrickBalestra/PatrickBalestra-Info.plist    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Info.plist -genpkginfo /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/assetcatalog_generated_info.plist -o /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app/Info.plist36"1F29CD5B-8629-46D7-8539-78D732E1B149-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CProcessPCH /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.pch PatrickBalestra/PatrickBalestra-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418231843.999763
+e418231845.476968
+r1
+xProcessPCH
+x/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.pch
+xPatrickBalestra/PatrickBalestra-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile PatrickBalestra/PatrickBalestra-Prefix.pch243"ProcessPCH Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.pch PatrickBalestra/PatrickBalestra-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc5200024b6edb841^371c7a25b6edb841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Prefix.pch0000000000000000^3888"ProcessPCH Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.pch PatrickBalestra/PatrickBalestra-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/PatrickBalestra/Documents/PatrickBalestra    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/PatrickBalestra/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-generated-files.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-own-target-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-all-target-headers.hmap -iquote /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/PatrickBalestra-project-headers.hmap -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources/i386 -I/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PatrickBalestra.build/Debug-iphonesimulator/PatrickBalestra.build/DerivedSources -F/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.dia -MMD -MT dependencies -MF /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.d -c /Users/PatrickBalestra/Documents/PatrickBalestra/PatrickBalestra/PatrickBalestra-Prefix.pch -o /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/PrecompiledHeaders/PatrickBalestra-Prefix-exbbsenbtpakrugiffmxhaepvwck/PatrickBalestra-Prefix.pch.pch36"F349B204-4240-4E86-8E89-BDC4C2D6CDF0-
+b0DE56BAF-C7B2-4F24-B649-29215BF04EAA
+
+CProcessPCH /Users/PatrickBalestra/Library/Developer/Xcode/DerivedData/PatrickBalestra-ddfosdlcddurkiafunyzflnffuko/Index/PrecompiledHeaders/PatrickBalestra-Prefix-elawvdpzbxgdbjbukvvpckqrxeap_ast/PatrickBalestra-Prefix.pch.pch PatrickBalestra/PatrickBalestra-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/PatrickBalestra/Documents/PatrickBalestra/Build/Products/Debug-iphonesimulator/PatrickBalestra.app
+r0
+

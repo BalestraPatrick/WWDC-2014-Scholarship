@@ -1,0 +1,1 @@
+/Users/PatrickBalestra/Documents/PatrickBalestra/Build/Intermediates/ArchiveIntermediates/PatrickBalestra/InstallationBuildProductsLocation/Applications/PatrickBalestra.app
